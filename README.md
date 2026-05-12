@@ -88,11 +88,11 @@ Currently seeking opportunities to gain real-world experience through **OJT / in
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kineticsss\&show_icons=true\&theme=transparent\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kineticsss\&layout=compact\&theme=transparent\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=transparent\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kineticsss\&theme=transparent\&hide_border=true)
 
 </div>
 
@@ -133,15 +133,15 @@ Blockchain:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME](https://github.com/Kineticsss">
+<a href="https://github.com/Kineticsss">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/kentianramirez/">
+<a href="https://www.linkedin.com/in/kentianramirez/">
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:ramirezkentian0@gmail.com">
+<a href="ramirezkentian0@gmail.com">
   <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
 </a>
 
