@@ -88,15 +88,9 @@ Currently seeking opportunities to gain real-world experience through **OJT / in
 
 <div align="center">
 
-# Test
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kineticsss&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kineticsss&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kineticsss&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kineticsss&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kineticsss&layout=compact&theme=transparent&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kineticsss&layout=compact&theme=github_dark&hide_border=true"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kineticsss&theme=transparent&hide_border=true)
 
