@@ -43,7 +43,7 @@ Currently seeking opportunities to gain real-world experience through **OJT / in
 
 ## Languages
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=mysql)
@@ -88,11 +88,11 @@ Currently seeking opportunities to gain real-world experience through **OJT / in
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kineticsss\&show_icons=true\&theme=transparent\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kineticsss&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kineticsss\&layout=compact\&theme=transparent\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kineticsss&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kineticsss\&theme=transparent\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kineticsss&theme=transparent&hide_border=true)
 
 </div>
 
@@ -141,7 +141,7 @@ Blockchain:
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="ramirezkentian0@gmail.com">
+<a href="mailto:ramirezkentian0@gmail.com">
   <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
 </a>
 
