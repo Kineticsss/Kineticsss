@@ -44,20 +44,20 @@ Currently seeking opportunities to gain real-world experience through **OJT / in
 ## Languages
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=mysql)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 
 ## Tools & Platforms
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
-![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge\&logo=visualstudiocode)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-000?style=for-the-badge\&logo=virtualbox)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-000?style=for-the-badge&logo=virtualbox)
 
 </div>
 
