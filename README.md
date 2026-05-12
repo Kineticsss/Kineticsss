@@ -63,17 +63,6 @@ Currently seeking opportunities to gain real-world experience through **OJT / in
 
 ---
 
-# 📌 Featured Projects
-
-| Project                   | Description                                            |
-| ------------------------- | ------------------------------------------------------ |
-| 🔐 Crime Reporting System | Database-driven reporting and management platform      |
-| 🌐 Backend API Projects   | REST APIs with authentication and database integration |
-| 🧪 Cybersecurity Labs     | Linux, networking, and security practice environments  |
-| ⛓️ Blockchain Learning    | Exploring blockchain concepts and smart contracts      |
-
----
-
 # 📈 Current Goals
 
 * Strengthen cybersecurity and networking foundations
@@ -87,10 +76,6 @@ Currently seeking opportunities to gain real-world experience through **OJT / in
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kineticsss&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kineticsss&layout=compact&theme=github_dark&hide_border=true"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kineticsss&theme=transparent&hide_border=true)
 
