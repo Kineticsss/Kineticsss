@@ -33,7 +33,6 @@ Batangas State University – Alangilan Campus
 ```
 
 I’m a Computer Science student passionate about building secure and reliable systems.
-Currently seeking opportunities to gain real-world experience through **OJT / internships** while continuously improving my technical and problem-solving skills.
 
 ---
 
